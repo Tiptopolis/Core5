@@ -10,6 +10,11 @@ working on directional lighting for the eggs shading.
 Gonna reimp some basic UI & figure out a scheme for bulk point-projection for the fake 3D
 
 
+
+![y1CompR - Copy](https://user-images.githubusercontent.com/26609028/136805967-5ddb5c17-982b-4180-b9a5-a22929a513e6.png)
+
+
+
 https://user-images.githubusercontent.com/26609028/135763132-e17d25f2-7ca6-4394-a2ef-dee22a73b243.mov
 
 
