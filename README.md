@@ -1,7 +1,7 @@
 # Core5
 Progression from Core4
 
->> https://github.com/Tiptopolis/KS6  
+>>CurrentState https://github.com/Tiptopolis/KS6  
 
 Still dumping videos in Core4
 
